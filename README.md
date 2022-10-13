@@ -1,4 +1,4 @@
-                                              <font size = "5" >Olá, sou Diego Leandro</font>
+                                               Olá, sou Diego Leandro
                                              
                                              Desenvolvedor | @1991 | RJ | Brasil
 
