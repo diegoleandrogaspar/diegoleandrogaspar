@@ -1,6 +1,6 @@
-                                             # Olá, sou Diego Leandro
+                                              <font size = "5" >Olá, sou Diego Leandro</font>
                                              
-                                             #### Desenvolvedor | @1991 | RJ | Brasil
+                                             Desenvolvedor | @1991 | RJ | Brasil
 
 <ul>
   <li>Atualmente trabalho como desenvolvedor de software na <a href="https://www.finansystech.com.br/?lang=pt">Finansystech</a></li>
