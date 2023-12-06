@@ -6,10 +6,10 @@
 
 </div>
 <ul>
-  <li>Atualmente trabalho como desenvolvedor de software na <a href="https://www.finansystech.com.br/?lang=pt">Finansystech</a></li>
+  <li>Sou um desenvolvedor de software com três anos de experiência em arquitetura, desenvolvimento e manutenção de software.</li>
   <br>
  
-  <li>Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java, NodeJS, Spring, Nuvem AWS e Docker</li>
+  <li>Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java, Spring, Nuvem AWS e Docker</li>
   <br>
   <li>Possuo conhecimentos intermediários em Javascript, HTML, e CSS</li>
   <br>
