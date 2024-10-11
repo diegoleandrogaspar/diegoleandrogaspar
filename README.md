@@ -9,7 +9,7 @@
   <li>Sou um desenvolvedor de software com três anos de experiência em arquitetura, desenvolvimento e manutenção de software.</li>
   <br>
  
-  <li>Os meus estudos atuais estão concentrados em desenvolvimento back-end com Java, Spring, Nuvem AWS e Docker</li>
+  <li>Os meus estudos atuais estão concentrados em Cloud AWS </li>
   <br>
   <li>Possuo conhecimentos intermediários em Javascript, HTML, e CSS</li>
   <br>
